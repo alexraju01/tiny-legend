@@ -23,3 +23,8 @@ body {
 	background-color: #222;
 	/* scale: 1; */
 }
+
+canvas {
+	height: 100%;
+	width: auto;
+}
